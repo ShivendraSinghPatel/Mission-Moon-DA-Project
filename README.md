@@ -47,3 +47,5 @@ The Power BI dashboard presents interactive visualizations including:
 
 ## Author
 Shivendra Singh
+
+ Follow Me -  [LinkedIn](https://www.linkedin.com/in/shivendraspatel/) 
